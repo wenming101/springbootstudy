@@ -1,5 +1,5 @@
 pulbic class hello{
 	public void main(String[] args){
-  		System.out.println("two") ;
+  		System.out.println("one") ;
 	}	
 }
